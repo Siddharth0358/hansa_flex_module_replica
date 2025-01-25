@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Create React App
 
 ## Available Scripts
 
@@ -89,7 +87,7 @@ A dynamic and interactive slider interface built with React.js to showcase X-COD
 
 ## Demo
 
-![Project Output](assets/output.png)
+![Project Output](src/assets/output.png)
 
 ---
 
